@@ -1,4 +1,5 @@
 Link to the github directory https://github.com/sgshaikh/Customer_Accept_Coupon/tree/main
+Link to the note book: https://github.com/sgshaikh/Customer_Accept_Coupon/blob/main/prompt.ipynb
 
 
 The first part of this exercise is to look at customer that accept coupons to a bar. The questions are part of a prompt. 
