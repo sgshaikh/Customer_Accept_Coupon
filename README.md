@@ -1,3 +1,6 @@
+Link to the github directory https://github.com/sgshaikh/Customer_Accept_Coupon/tree/main
+
+
 The first part of this exerise is to look at customer that accept coupons to a bar. The questions are part of a prompt. 
 
 Overall there was a 41% coupon acceptance rate for the Bar. 
@@ -13,4 +16,6 @@ Sunny weather had a considerably higher acceptance rate compared to rainy and sn
 Highest acceptance rate for Carryout and Take away coupon is for the group is driving home on a sunny day and the restaurant is in the same direction that they are dirving. The acceptance rate is 82.3%
 The lowest acceptance rate is for the group that is driving to work on a rainy day even if the restaurant is in the same direction. The acceptance rate is 31%
 
-Link to the github directory https://github.com/sgshaikh/Customer_Accept_Coupon/tree/main
+Next Steps: As a next step it will be interesting to compare against other types of coupons and will also be interesting to look at predictive power of each of the variables to customize and optimize the coupons for each type of customer based on their demographics and driving attributes
+
+
